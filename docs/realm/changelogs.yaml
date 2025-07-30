@@ -54,7 +54,7 @@
     changes:
       minor:
         - Removed deprecated `path-excludes-patterns` and `info-license-url` rules.
-        - Improved `graphql-docs` package by making its rendering behavior consistent across other products.
+        - Improved `graphql-docs` package by making its rendering behavior consistent across other proudcts.
       patch:
         - Improved performance of JSON responses by optimizing RBAC filtering logic.
         - Improved performance and reduced data size for OpenAPI pages.
@@ -9902,7 +9902,7 @@
     changes:
       minor:
         - Removed deprecated `path-excludes-patterns` and `info-license-url` rules.
-        - Improved `graphql-docs` package by making its rendering behavior consistent across other products.
+        - Improved `graphql-docs` package by making its rendering behavior consistent across other proudcts.
       patch:
         - Improved performance of JSON responses by optimizing RBAC filtering logic.
         - Improved performance and reduced data size for OpenAPI pages.
@@ -12900,7 +12900,7 @@
     timestamp: 1753349247000
     changes:
       minor:
-        - Improved `graphql-docs` package by making its rendering behavior consistent across other products.
+        - Improved `graphql-docs` package by making its rendering behavior consistent across other proudcts.
       patch: []
     dependencies: {}
   0.56.0-next.5:
@@ -14930,7 +14930,7 @@
     timestamp: 1753349247000
     changes:
       minor:
-        - Improved `graphql-docs` package by making its rendering behavior consistent across other products.
+        - Improved `graphql-docs` package by making its rendering behavior consistent across other proudcts.
       patch:
         - Updated `@redocly/openapi-core` to version `2.0.0-next.8`.
         - Made the display of `x-` extensions independent from the description.
@@ -16853,13 +16853,6 @@
     dependencies:
       '@redocly/theme': 0.6.0
 '@redocly/config':
-  0.27.0:
-    timestamp: 1753867081000
-    changes:
-      minor:
-        - Added `ignoreRespectMonitoring` property to the Reunite config schema.
-      patch: []
-    dependencies: {}
   0.26.4:
     timestamp: 1753106227000
     changes:
@@ -17255,7 +17248,7 @@
     timestamp: 1753349247000
     changes:
       minor:
-        - Improved `graphql-docs` package by making its rendering behavior consistent across other products.
+        - Improved `graphql-docs` package by making its rendering behavior consistent across other proudcts.
       patch: []
     dependencies: {}
   0.13.0-next.1:
@@ -17916,14 +17909,6 @@
     dependencies:
       '@redocly/theme': 0.6.0
 '@redocly/mock-server':
-  0.3.1:
-    timestamp: 1753867081000
-    changes:
-      minor: []
-      patch:
-        - Updated `@redocly/openapi-core` to version `2.0.2`.
-        - Updated `@redocly/openapi-core` to version `2.0.1`.
-    dependencies: {}
   0.3.0:
     timestamp: 1753349155000
     changes:
@@ -27530,11 +27515,4 @@ reunite:
       minor: []
       patch:
         - Updated `@redocly/openapi-core` and `@redocly/cli` to version `2.0.1`.
-    dependencies: {}
-  v2025-07-30.1:
-    timestamp: 1753865518000
-    changes:
-      minor: []
-      patch:
-        - Updated `@redocly/openapi-core` and `@redocly/cli` to version `2.0.2`.
     dependencies: {}
